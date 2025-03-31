@@ -1,5 +1,10 @@
 # API de Gerenciamento de Usuários
 
+Este projeto é uma API RESTful desenvolvida com Node.js, TypeScript e MongoDB, com autenticação via JWT.  
+Ela permite o **cadastro, login, listagem, visualização e atualização de usuários**.  
+As senhas são armazenadas com segurança (hash), e apenas o próprio usuário pode editar seus dados.
+
+---
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/RodrigoFontes377/desafio-fox-back.git
